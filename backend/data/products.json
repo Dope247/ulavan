@@ -1,0 +1,401 @@
+[
+    {
+        "name": "ABHILASH TOMATO SEEDS",
+        "price": 200,
+        "description": "Best Round Tomato for Rainy Season, Strong plant type with good Firmness & Shelf life, Flat round fruit shaped fruits",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/images/products/1.PNG"
+            }
+        ],
+        "category": "vegetable seeds",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 15,
+        "reviews": []
+    }, 
+    {
+        "name": "NS 1101 CHILLI SEEDS",
+        "price": 140,
+        "description": "Medium tall spreading plant,green fresh & red dry",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/images/products/2.WEBP"
+            }
+        ],
+        "category": "vegetable seeds",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": " RED ONION SEEDS ",
+        "price": 349,
+        "description": "Nasik red is one of the Oldest variety,Bulb is medium red and flat oval in shape.",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/3.WEBP"
+            }
+        ],
+        "category": "vegetable seeds",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "MORALEDA BEANS",
+        "price": 150,
+        "description": "Staking Bean, With Excellent Fruit Quality & Transportability, Strong and vigorous",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/4.WEBP"
+            }
+        ],
+        "category": "vegetable seeds",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },    {
+        "name": "SURABHI CORIANDER",
+        "price": 280,
+        "description": "Surabhi is a vigorous variety of coriander having excellent yield potential. Suitable for multiple cuts with very attractiv",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/5.WEBP"
+            }
+        ],
+        "category": "vegetable seeds",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "SONA MUSK MELON",
+        "price": 350,
+        "description": "Golden yellow fruit, white-greenish flesh, juicy & crispy",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/7.WEBP"
+            }
+        ],
+        "category": "fruits seeds",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "MUSK MELON",
+        "price": 390,
+        "description": "Medium to early hybrid. Exhibiting good shipping and keeping qualities. Exhibiting wide adaptability. Striped fruits ideal for long transportation",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/8.WEBP"
+            }
+        ],
+        "category": "fruits seeds",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "SARPAN HYBRID PAPAYA ",
+        "price": 440,
+        "description": "Papaya Seeds with short plant height, produce uniform size small fruits of 800 gm to 1000 gm.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/9.JPG"
+            }
+        ],
+        "category": "fruits seeds",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": " WATERMELON SEEDS ",
+        "price": 640,
+        "description": "Good for Long Distance transportability",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/6.WEBP"
+            }
+        ],
+        "category": "fruits seeds",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": " BLACK BALL WATERMELON",
+        "price": 210,
+        "description": "It is a warm season crop mainly grown in tropical and subtropical regions. Generally, a long period of warm, preferably dry weather with abundant sunshine is required.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/10.WEBP"
+            }
+        ],
+        "category": "fruits seeds",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Coragen Insecticide",
+        "price": 290,
+        "description": "Coragen® Insecticide is an anthranilic diamide Broad Spectrum insecticide in the form of a suspension concentrate",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/11.WEBP"
+            }
+        ],
+        "category": "Chemical",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Coragen Insecticide",
+        "price": 210,
+        "description": "It is recommended on various crops for control of Caterpillars and Thrips,Egao belongs to avermactin group of insecticides.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/12.JPG"
+            }
+        ],
+        "category": "Chemical",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Ema Gold Insecticide",
+        "price": 1149,
+        "description": "It contains 5% active ingredient and is recommended for the control of Bollworms on cotton",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/13.WEBP"
+            }
+        ],
+        "category": "Chemical",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "NO VIRUS",
+        "price": 279,
+        "description": "No-Virus is an effective anti-viral product to protect crops from all types of viral diseases.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/14.WEBP"
+            }
+        ],
+        "category": "Chemical",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "TAPAS TEJ YIELD BOOSTER",
+        "price": 349,
+        "description": "Tapas Tej Yield Booster is an advanced complex blend of unique Botanicals.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/15.WEBP"
+            }
+        ],
+        "category": "Chemical",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "SINGLE MOTOR BATTERY SPRAYER",
+        "price": 3149,
+        "description": "This sprayer has multiple applications and is widely used in agriculture, horticulture, sericulture, plantations, forestry, gardens, institutions, universities, etc.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/16.WEBP"
+            }
+        ],
+        "category": "equipments",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": " BRUSH CUTTER",
+        "price": 7999,
+        "description": "BX52 2-stroke Engine, 850 ml/hr at 70% capacity",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/17.WEBP"
+            }
+        ],
+        "category": "equipments",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "GARTEN BYPASS BRANCH LOPPER ",
+        "price": 2999,
+        "description": "A simple rule for choosing the right lopper is bypass for younger branches and anvil for hardier or dead wood. ",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/18.WEBP"
+            }
+        ],
+        "category": "equipments",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "AGNI SOLAR LANTERN ",
+        "price": 2499,
+        "description": "The Solar Lantern 1 is portable light that is perfect for both indoor and outdoor use.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/19.WEBP"
+            }
+        ],
+        "category": "equipments",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "WOLF GARTEN JOINT BRUSH  ",
+        "price": 689,
+        "description": "This Weeding Brush features stiff steel bristles that are specially angled to remove tough weeds and moss.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/20.WEBP"
+            }
+        ],
+        "category": "equipments",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "PETROL WATER PUMP",
+        "price": 11689,
+        "description": "Water is a basic necessity for every living being and these days, to pump water, many industries use the best quality pump. ",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/21.WEBP"
+            }
+        ],
+        "category": "machinery",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "REAPER SELF PROPELLED",
+        "price": 111689,
+        "description": "Main clutch lever( forward& Reverse), Harvesting clutch lever, Throttle lever.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/22.WEBP"
+            }
+        ],
+        "category": "machinery",
+        "seller": "ulavan",
+        "stock":20,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": " CATTLE FEED MAKER",
+        "price": 50000,
+        "description": "Pellet Machines are built in compliance with industrial standards and are constructed from high-end quality metals sourced from certified vendors",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/23.WEBP"
+            }
+        ],
+        "category": "machinery",
+        "seller": "ulavan",
+        "stock":204,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": " GARDEN MINI POWER TILLER",
+        "price": 20000,
+        "description": "Tiller/Cultivator/Rotary/Weeder quickly breaks up the dirt & hard clay soil to prepare it for planting.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/24.WEBP"
+            }
+        ],
+        "category": "machinery",
+        "seller": "ulavan",
+        "stock":204,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "SEEDLING PLANTER",
+        "price": 2000,
+        "description": "This vegetable seedling Planter can enable you to plant your tulips, tomato, potato, herb plant and vegetable seedlings without bowing over.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/25.WEBP"
+            }
+        ],
+        "category": "machinery",
+        "seller": "ulavan",
+        "stock":204,
+        "numOfReviews": 20,
+        "reviews": []
+    }
+]
